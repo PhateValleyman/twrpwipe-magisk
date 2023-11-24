@@ -1,0 +1,6 @@
+id=twrpwipe-magisk
+name=twrpwipe for Magisk
+version=1.0
+versionCode=10
+author=TPhateValleyman <Jonas.Ned@outlook.com>
+description=Custom twrp wiper
